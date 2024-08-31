@@ -62,6 +62,8 @@ The **Blog API** is a backend application built using Django that provides endpo
 ![](Images/Screenshot.png)
 ![](Images/Screenshot_2.png)
 ![](Images/Screenshot_3.png)
+![](Images/Screenshot_4.png)
+
 
 
 
