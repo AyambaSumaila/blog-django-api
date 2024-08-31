@@ -19,7 +19,7 @@ The **Blog API** is a backend application built using Django that provides endpo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone AyambaSumaila/github/blog-django-api/git
+   git clone https//github.com/AyambaSumaila/blog-django-api
    ```
 2. Navigate to the project directory:
    ```bash
